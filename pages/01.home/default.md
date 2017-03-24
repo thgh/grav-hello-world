@@ -4,7 +4,7 @@ title: Home
 
 # Checking out Grav
 
-How do you deal with merge conflicts?
+What about merge conflicts?
 
 # Getting Started with Grav
 
