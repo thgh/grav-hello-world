@@ -4,7 +4,7 @@ title: Home
 
 # Checking out Grav
 
-GitHub has won from GitSync
+GitSync has won from GitHub after all
 
 # Getting Started with Grav
 
