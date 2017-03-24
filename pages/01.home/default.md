@@ -4,7 +4,7 @@ title: Home
 
 # Checking out Grav
 
-What about merge conflicts?
+GitHub has won from GitSync
 
 # Getting Started with Grav
 
